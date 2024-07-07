@@ -24,8 +24,8 @@ Este projeto visa realizar uma análise exploratória de dados (EDA) em um conju
 1. Clone este repositório para o seu ambiente local:
 
     ```bash
-    git clone <URL_do_repositorio>
-    cd <nome_do_repositorio>
+    git clone <git@github.com:Petrosch2/Indicium.git>
+    cd <Petrosch2/Indicium>
     ```
 
 2. Crie um ambiente virtual:
